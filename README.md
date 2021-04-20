@@ -3,4 +3,4 @@
 - 🌱 Atualmente estudo programação Java e suas tecnologias 
 - 📫 Você pode se comunicar comigo por email: llealcruz@gmail.com
 
-- Neste repositório deixo disponível meu portfólio de sistemas de estudo.
+- No meu repositório deixo disponível meu portfólio de sistemas de estudo.
